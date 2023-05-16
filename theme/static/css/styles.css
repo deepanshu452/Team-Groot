@@ -20,7 +20,9 @@ Use a better box model (opinionated).
 /**
 Use a more readable tab size (opinionated).
 */
-
+* {
+  background-color:red;
+}
 :root {
   -moz-tab-size: 4;
   -o-tab-size: 4;
